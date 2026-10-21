@@ -1,0 +1,3 @@
+main
+	yaksondur_tek
+	yaksondur_cift
